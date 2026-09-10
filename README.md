@@ -6,8 +6,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bharanidharanGit003&color=a78bfa&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/bharanidharanGit003?style=flat-square&color=a78bfa&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=BHARANIDHARAN03&color=a78bfa&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/BHARANIDHARAN03?style=flat-square&color=a78bfa&label=Followers)
 
 </div>
 
@@ -88,12 +88,12 @@ Parses and interprets medical reports — won 1st place at the Dataset Hackathon
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=bharanidharanGit003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharanidharanGit003&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BHARANIDHARAN03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BHARANIDHARAN03&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanidharanGit003&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHARANIDHARAN03&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharanidharanGit003&theme=tokyo-night&hide_border=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BHARANIDHARAN03&theme=tokyo-night&hide_border=true" width="97%" />
 
 </div>
 
@@ -104,7 +104,7 @@ Parses and interprets medical reports — won 1st place at the Dataset Hackathon
 ### 📫 Reach Me
 
 <!-- Add your links -->
-[LinkedIn](#) • [Email](#) • [Portfolio](#)
+[LinkedIn](https://in.linkedin.com/in/bharanidharan-r-developer) • [Email](mailto:r.bharanidharan.work@gmail.com) • [Portfolio](https://portfolio-bharanidharan.netlify.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:6d28d9,100:1a1a2e&height=120&section=footer&animation=twinkling" width="100%" />
 
