@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- Replace this with a banner/hero image of your choice -->
-<img src="https://your-banner-image-url-here" width="700" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Bharanidharan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Startup%20Enthusiast%20%7C%20Developer%20%7C%205x%20Hackathon%20Winner&descAlignY=58&descSize=20" width="100%" />
 
-<h1>Bharanidharan</h1>
-<h3>Full-Stack Engineer &nbsp;|&nbsp; 5x National Hackathon Finalist/Winner</h3>
-
-Building fast, shipping real products — across five national hackathons I've taken ideas from zero to working prototype in 24–48 hours, and I bring that same speed to production engineering.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+fast+%E2%80%94+idea+to+prototype+in+24-48hrs;Full-Stack+Engineer+%40+Sion+Health;Startup+Enthusiast+%7C+Founder-minded" />
 
 </div>
 
@@ -61,5 +57,7 @@ Building fast, shipping real products — across five national hackathons I've t
 
 <!-- Add your links -->
 [LinkedIn](#) • [Email](#) • [Portfolio](#)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%" />
 
 </div>
